@@ -1,5 +1,5 @@
 # parameters
-ARG REPO_NAME="my-ros-project"
+ARG REPO_NAME="my_ros_project"
 ARG DESCRIPTION="My first ROS compatible DTProject for DuckieTown"
 ARG MAINTAINER="Durranee Clarke (durraneekclarke@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
